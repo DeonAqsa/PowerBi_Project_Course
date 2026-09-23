@@ -2,7 +2,7 @@
  
 ![Dashboard Page 1](/Images/Picture1.gif)
  
-[View interactive dashboard here on the Power BI Service](https://your-powerbi-link-here.com)
+[View interactive dashboard here](https://github.com/DeonAqsa/PowerBi_Project_Course/blob/main/Dashboard%20and%20Visualization%20Practice.pbix)
  
 ## Introduction
  
