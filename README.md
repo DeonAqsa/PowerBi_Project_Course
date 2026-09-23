@@ -1,4 +1,4 @@
-# Data Job Dashboard w/ Power BI
+# Data Job Dashboard With Power BI
  
 ![Dashboard Page 1](/Images/Picture1.gif)
  
